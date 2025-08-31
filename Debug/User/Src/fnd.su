@@ -1,0 +1,3 @@
+../User/Src/fnd.c:25:6:FND_DisplayDigit	24	static
+../User/Src/fnd.c:41:6:FND_Clear	8	static
+../User/Src/fnd.c:52:6:FND_Init	8	static

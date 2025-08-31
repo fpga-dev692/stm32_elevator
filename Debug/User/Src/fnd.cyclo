@@ -1,0 +1,3 @@
+../User/Src/fnd.c:25:6:FND_DisplayDigit	1
+../User/Src/fnd.c:41:6:FND_Clear	1
+../User/Src/fnd.c:52:6:FND_Init	1

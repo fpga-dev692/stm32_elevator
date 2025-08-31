@@ -1,0 +1,5 @@
+../User/Src/stepper.c:22:6:stepMotor	1
+../User/Src/stepper.c:29:6:rotateSteps	3
+../User/Src/stepper.c:44:6:RotationUp	12
+../User/Src/stepper.c:73:6:RotationDown	7
+../User/Src/stepper.c:98:6:findCurrentState	15
